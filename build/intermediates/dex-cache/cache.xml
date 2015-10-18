@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/admin/AndroidStudioProjects/MinneapolisWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/admin/AndroidStudioProjects/MinneapolisWeather/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-58d2f650300723db2624170cc20766f1fa1dad77.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/admin/AndroidStudioProjects/MinneapolisWeather/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-2555df66bb7eedcf960d53511b0b5bd25a37c4d6.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidStudioProjects/MinneapolisWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/admin/AndroidStudioProjects/MinneapolisWeather/app/build/intermediates/pre-dexed/debug/classes-1cc57eda77d10d3c386dd3c5d7fe3a2e7cec412e.jar" />
+    </item>
+    <item
+        jar="/Users/admin/AndroidStudioProjects/MinneapolisWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/admin/AndroidStudioProjects/MinneapolisWeather/app/build/intermediates/pre-dexed/debug/classes-44fc8ecc1383449661cee1b8cd484a0a6c122d40.jar" />
+    </item>
+
+</items>
